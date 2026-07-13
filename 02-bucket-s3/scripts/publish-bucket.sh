@@ -4,7 +4,8 @@ set -euo pipefail
 export AWS_ACCESS_KEY_ID=minioadmin
 export AWS_SECRET_ACCESS_KEY=minioadmin
 export AWS_DEFAULT_REGION=us-east-1
-
+export CONTENT_ISLAND_TOKEN=tu-key-content-island
+export REFRESH_SECRET=dev-secret
 # 1) Exporta el snapshot desde Content Island
 npx content-island export \
 --access-token "$CONTENT_ISLAND_TOKEN" \
