@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "publish:bucket": "bash scripts/publish-bucket.sh"
   },
   "dependencies": {
     "@content-island/api-client": "^0.24.0",
