@@ -1,4 +1,0 @@
-# Express · API Load
-
-- 📖 [Documentation (English)](https://docs.contentisland.net/dynamic-snapshots/express/endpoint/)
-- 📖 [Documentación (Español)](https://docs.contentisland.net/es/dynamic-snapshots/express/endpoint/)
